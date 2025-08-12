@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Ailton!  
 👀 Tenho interesse em segurança cibernética, automação e desenvolvimento de software.  
-🌱 Atualmente estou aprendendo Python avançado, SQL e segurança de redes.  
+🌱 Atualmente estou aprendendo Python, SQL e segurança de redes.  
 💞️ Estou buscando colaborar em projetos open-source relacionados à segurança de dados e automação.  
 📫 Como me encontrar: [www.linkedin.com/in/ailton-resende-8a4815199]  
 😄 Pronomes: Ele/Dele  
